@@ -1,4 +1,4 @@
-Hi, I'm David Ogbeide. I'm a front end developer meaning I build the part of the website you actually get to see!
+Hi, I'm Webbard De Velle-Pierre. I'm a front end developer meaning I build the part of the website you actually get to see!
 ## Skills:
 * HTML5
 * CSS3
@@ -7,14 +7,16 @@ Hi, I'm David Ogbeide. I'm a front end developer meaning I build the part of the
 * React framework
 
 ## Experience:
-* Meticulon Assessment Service | Front End Developer | April 2020
-  * Designed and implemented the user interface for a job skills coaching app
-* Advantage Group Intl. | Full Stack Developer | July 2018 - March 2019
-  * Designed and implemented the user interface for a business data analysis application prototype
-  * Implemented and tested business logic for processing the data
-* ... more
-* ... another one
+* InternsRus Ltd. | Jr. Developer | 2017-2018
+  * Lorem Ipsum Wingardium LevioSAAAAAAAAA...
+* Big Tech Inc. | Sr. Developer | 2018-2020
+  * Umm actually, it's LeviOOOOsa, not levioSAAAAAA...
+  * Stop it Ronald...
 
 ## Social Links:
-#### Private Projects: https://dogbeide.github.io
-#### LinkedIn: https://www.linkedin.com/in/david-ogbeide-037528a5
+#### Email: webbard@devellepierre.com
+#### Phone: 123-456-7890
+#### LinkedIn: https://www.linkedin.com
+#### Twitter: https://www.twitter.com
+#### Instagram: https://www.instagram.com
+#### Private Projects: https://github.io
